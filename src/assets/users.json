@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Jane Doe", "email": "jane@example.com", "total": 200, "status": "completed" },
+  { "id": 2, "name": "John Smith", "email": "john@example.com", "total": 120, "status": "pending" },
+  { "id": 3, "name": "Alice Nguyen", "email": "alice@example.com", "total": 400, "status": "completed" },
+  { "id": 4, "name": "Bob Tran", "email": "bob@example.com", "total": 90, "status": "completed" }
+]
